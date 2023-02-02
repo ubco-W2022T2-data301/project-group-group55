@@ -34,4 +34,4 @@ Dovile's article offers a few suggestions to consider when writing your project 
 For this project, we agree to contract for a { A+/A/B/C }.
 - A 
 
-# How does easy online flight booking affect satisfaction between age groups?
+# What are some factors that affect flight satisfaction?

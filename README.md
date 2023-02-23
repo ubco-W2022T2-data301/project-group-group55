@@ -19,7 +19,7 @@ This dataset was created 3 years ago by an unnamed airline company referred to a
 
 - *Sara*: I have a dipolma in business administration and currently am majoring in psychology so I am curious if these three factors truly affect flight satisfaction. 
 - *Mataija*: I am also currently majoring in psychology and am interested in using data visualizations to see if flight delays affect customer satisfaction.
-- Person 3: one sentence about you!
+- Person 3: I am pursuing a degree in Business Management (maybe a minor in Computer Science), so these three factors from the dataset may relate to marketing, providing me with an insight into the airline industry.
 
 ## Images
 

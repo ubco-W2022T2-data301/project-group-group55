@@ -21,7 +21,7 @@ This dataset was created 3 years ago by an unnamed airline company referred to a
 
 ## Images
 
-![Dashboard 1](project-group-group55/images/Dashboard 1.jpg)
+![Dashboard 1](https://ubc.syzygy.ca/jupyter/hub/user-redirect/lab/tree/project-group-group55/images/Dashboard%201.jpg)
 
 ![Dashboard 2](images/Dashboard 2.jpg)
 

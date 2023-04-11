@@ -23,9 +23,9 @@ This dataset was created 3 years ago by an unnamed airline company referred to a
 
 ![Dashboard 1](https://github.com/ubco-W2022T2-data301/project-group-group55/blob/main/images/Dashboard%201.jpg)
 
-![Dashboard 2](images/Dashboard 2.jpg)
+![Dashboard 2](https://github.com/ubco-W2022T2-data301/project-group-group55/blob/main/images/Dashboard%202.jpg)
 
-![Dashboard 3](images/Dashboard 3.jpg)
+![Dashboard 3](https://github.com/ubco-W2022T2-data301/project-group-group55/blob/main/images/Dashboard%203.jpg)
 
 ## References
 

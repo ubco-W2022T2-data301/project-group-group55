@@ -21,11 +21,11 @@ This dataset was created 3 years ago by an unnamed airline company referred to a
 
 ## Images
 
-![Dashboard 1](images/"Dashboard 1.jpg")
+![Dashboard 1](project-group-group55/images/Dashboard 1.jpg)
 
-![Dashboard 2](images/"Dashboard 2.jpg")
+![Dashboard 2](images/Dashboard 2.jpg)
 
-![Dashboard 3](images/"Dashboard 3.jpg")
+![Dashboard 3](images/Dashboard 3.jpg)
 
 ## References
 
